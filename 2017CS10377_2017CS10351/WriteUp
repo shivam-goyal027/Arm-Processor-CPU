@@ -1,0 +1,16 @@
+Latest bitstream, COE, XDC, VHD design are attached. 
+
+Done and tested all labs till lab 12.
+Multiple programs can be run in lab7-lab11 but a single program is run in lab12 as the reset button is dedicatd for other purposes.
+In general, size of instruction and program memory is constrained as per the instructor's choice.
+All labs upto 12 are working successfully on simulation as well as board.
+
+STATUS
+LAb 7: Completed
+Lab 8: Completed regular version
+Lab 9: Completed Lite version
+Lab 10: Completed
+Lab 11: Completed
+LAb 12: Completed Lite version
+Lab 13: Not Attempted
+Lab 14: Not Attempted
